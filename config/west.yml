@@ -16,6 +16,6 @@ manifest:
       revision: main
     - name: zmk-board-eyelash
       remote: eyelash
-      revision: main
+      revision: 29d53043
   self:
     path: config
