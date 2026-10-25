@@ -13,7 +13,7 @@ manifest:
       import: app/west.yml
     - name: zmk-nice-oled
       remote: mctechnology17
-      revision: 0312be2bfd
+      revision: cd7296c56ce1
     - name: zmk-board-eyelash
       remote: eyelash
       revision: 29d53043
